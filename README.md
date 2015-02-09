@@ -1,0 +1,2 @@
+# Java-Server-Faces-Database
+An example of how can we use Java Server Faces to bind our project with a remote database. I have included the sql file which contains the table which holds the students. The code that you want to modify is connecting to the database, so change you user name and password also change the name of you database. I used mamp for managing the database, so If you use mamp to you can just import sql file that I have included which holds the table to our database in mamp.
